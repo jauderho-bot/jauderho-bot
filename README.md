@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jauderho-bot
-- 👀 I help automate tasks for @[jauderho](https://github.com/jauderho/)
+- 👀 I help automate tasks for [@jauderho](https://github.com/jauderho/)
 - ⚡ Fun fact: Signed commits are the best!
 
 <!---
